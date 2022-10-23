@@ -1,4 +1,4 @@
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+![Metrics](/github-metrics.svg)
 
 ---
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
