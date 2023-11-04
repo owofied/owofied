@@ -8,7 +8,7 @@ I use arch (btw)
 
 I'm really happy to share some of the cool projects I've been working on:
 
-1. **![Sharify](https://sharify.in)**: File-sharing service, which is probably the most successful project I've ever done with my friend.
+1. **[Sharify](https://sharify.in)**: File-sharing service, which is probably the most successful project I've ever done with my friend.
 
 2. **OwO Bot**: Discord selfbot written in Python that was intended to be public but ended up being private for obvious reasons...
 
@@ -26,7 +26,7 @@ Here are a few of my favorites:
 
 I'm always looking to collaborate. Feel free to reach out:
 
-- 📫 Drop me a line at ![xiro@duck.com](mailto:xiro@duck.com)
-- 🌐 Visit my personal website: ![owofied.xyz](https://owofied.xyz)
+- 📫 Drop me a line at [xiro@duck.com](mailto:xiro@duck.com)
+- 🌐 Visit my personal website: [owofied.xyz](https://owofied.xyz)
 
 ![Snake Animation](https://github.com/Creaperhunter/Creaperhunter/blob/output/github-contribution-grid-snake.svg)
