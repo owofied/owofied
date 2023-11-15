@@ -1,7 +1,8 @@
 # Hey there, I'm owofied! (formerly xiro) 👋
 
 Thanks for checking out my GitHub profile :D 
-I'm a 14 year old self-taught software engineer with about 2.5 years of experience (although my github repos don't show it :p).
+I'm a 14 year old self-taught software engineer with about 2.5 years of experience.
+<br/>
 I use arch (btw)
 
 ## What I'm up to
