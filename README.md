@@ -9,7 +9,7 @@ I **was** using arch (btw)
 
 I'm really happy to share some of the cool projects I've been working on:
 
-1. **[Sharify](https://sharify.in)**: File-sharing service, which is probably the most successful project I've ever done with my friend.
+1. **[Sharify](https://sharify.in)**: File-sharing service, which is probably the most successful project I've ever done.
 2. **[PurrPass](https://github.com/XiroXD/PurrPass)**: Password manager that reinvents the wheel...
 3. **OwO Bot**: Discord selfbot written in Python that was intended to be public but ended up being private for obvious reasons...
 
