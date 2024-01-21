@@ -3,7 +3,7 @@
 Thanks for checking out my GitHub profile :D 
 I'm a self-taught software engineer with about 2.5 years of experience.
 <br/>
-I **was** using arch (btw)
+I use arch (btw)
 
 ## What I'm up to
 
